@@ -1,56 +1,50 @@
-<h1 align="center">Hi 👋, I'm Akshay Kumar M</h1>
+# Hi 👋, I'm Akshay Kumar
 
-<h3 align="center">
-Mathematics & Computing Engineering Student | Full Stack Developer | Robotics Enthusiast
-</h3>
+### Python & Java Developer | Mathematics & Computing Student
 
 ---
 
 ## 🚀 About Me
 
-🎓 3rd Year Mathematics & Computing Engineering Student at  
-MS Ramaiah University of Applied Sciences
-
-💻 Passionate about:
-- Full Stack Web Development
-- Robotics & Automation
-- Artificial Intelligence
-- Cloud Computing & DevOps
-- Machine Learning
-- Problem Solving & Algorithms
-- IoT and Embedded Systems
-
-🌱 Currently learning:
-- Advanced React Development
-- Backend Architecture
-- Robotics Integration with AI
-- Cloud & Container Technologies
-
-⚡ Interested in building innovative applications that combine
-software, mathematics, and intelligent systems.
+- 🎓 3rd Year Mathematics & Computing Engineering Student at MS Ramaiah University of Applied Sciences
+- 💻 Passionate about Software Development and Problem Solving
+- 🌐 Exploring Full Stack Web Development and Backend Technologies
+- ☁️ Learning Cloud Computing & DevOps
+- 🧠 Interested in Artificial Intelligence and Machine Learning
+- ⚡ Building projects that combine software, mathematics, and real-world applications
+- 🤖 Familiar with Robotics and Automation concepts from diploma studies
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
+<p align="left">
+<a href="https://www.linkedin.com/in/akshay-kumar-m-612131332/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:ak9219803@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages and Tools
+
+### 💻 Core Programming
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
 </p>
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
 </p>
 
-### 🗄 Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,docker" />
-</p>
-
-### 🤖 Robotics & Computing
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+### 🗄 Database & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,linux" />
 </p>
 
 ---
@@ -58,6 +52,7 @@ software, mathematics, and intelligent systems.
 ## 🔥 Featured Project
 
 ### 🛍 The_Outer_Shell
+
 Premium full-stack clothing e-commerce platform built using:
 - React.js
 - Node.js
@@ -65,36 +60,40 @@ Premium full-stack clothing e-commerce platform built using:
 - Express.js
 
 Features:
-- Responsive modern UI
-- Authentication
-- Product management
-- Secure backend APIs
+- Modern responsive UI
+- Authentication System
+- Product Management
+- Backend APIs
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-kumar-47&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-kumar-47&theme=tokyonight" />
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshay-kumar-47&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-kumar-47&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 GitHub Streak
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/akshay-kumar-m-612131332/
-
-📧 Email:  
-ak9219803@gmail.com
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-kumar-47&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Current Focus
 
-I enjoy combining mathematics, computing, and robotics to create
-smart real-world solutions 🚀
+- Python & Java Development
+- Full Stack Web Development
+- AI Integrated Applications
+- Cloud & DevOps
+- Problem Solving & Algorithms
+
+---
+
+## 💡 Fun Fact
+
+I enjoy combining mathematics and computing to create smart real-world solutions 🚀
