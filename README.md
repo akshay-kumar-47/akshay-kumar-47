@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 3rd Year Mathematics & Computing Engineering Student at MS Ramaiah University of Applied Sciences
 - 💻 Passionate about Software Development and Problem Solving
