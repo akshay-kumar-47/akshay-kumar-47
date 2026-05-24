@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshay Kumar
 
-### Python & Java Developer | Mathematics & Computing Student
+### Mathematics & Computing Student | Python & Java Developer
 
 ---
 
