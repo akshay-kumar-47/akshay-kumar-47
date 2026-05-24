@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akshay Kumar
+# Hi 👋, I'm Akshay
 
 ### Mathematics & Computing Student | Python & Java Developer
 
